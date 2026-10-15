@@ -1,0 +1,76 @@
+⚠️ DEMO DATA – NOT OFFICIAL UNIVERSITY POLICY ⚠️
+All fees, deadlines, and procedures in this document are ILLUSTRATIVE ONLY.
+This content was created for the CampusSaarthi AI hackathon demonstration.
+Do NOT treat this as official Integral University fee structure.
+
+================================================================================
+DEMO: FEE STRUCTURE AND PAYMENT PROCEDURES
+Integral University, Lucknow (Illustrative – Hacktoberfest Demo 2026)
+================================================================================
+
+SECTION 1: ANNUAL FEE STRUCTURE (DEMO AMOUNTS – NOT OFFICIAL)
+
+B.Tech (All branches):
+- Tuition fee: Rs. 85,000 per year
+- Development fee: Rs. 10,000 per year
+- Examination fee: Included in tuition fee
+- Total annual fee: Rs. 95,000 per year
+
+M.Tech:
+- Tuition fee: Rs. 60,000 per year
+- Development fee: Rs. 8,000 per year
+- Total annual fee: Rs. 68,000 per year
+
+MBA:
+- Tuition fee: Rs. 75,000 per year
+- Development fee: Rs. 10,000 per year
+- Total annual fee: Rs. 85,000 per year
+
+Note: All fees listed are per-year (two semesters). Lab fees may apply for specific programmes.
+
+SECTION 2: PAYMENT SCHEDULE
+
+Semester 1 (Odd Semester):
+- Fee due date: 15 August 2026 (DEMO DATE)
+- Late fee after due date: Rs. 50 per day (DEMO AMOUNT)
+- Last date with late fee: 31 August 2026 (DEMO DATE)
+
+Semester 2 (Even Semester):
+- Fee due date: 15 January 2027 (DEMO DATE)
+- Late fee after due date: Rs. 50 per day (DEMO AMOUNT)
+- Last date with late fee: 31 January 2027 (DEMO DATE)
+
+SECTION 3: PAYMENT METHODS
+
+Fees can be paid through the following channels:
+1. Online payment via the student portal (https://portal.iul.ac.in) using:
+   - Net banking
+   - UPI
+   - Debit card / Credit card
+2. Demand draft in favour of "Integral University" payable at Lucknow.
+3. Cash payment at the Finance Office (Block B, Ground Floor) during working hours.
+
+SECTION 4: FEE CONCESSIONS AND SCHOLARSHIPS
+
+The following concessions are available (DEMO – not official):
+- Merit scholarship for students with >90% marks in Class XII: 25% tuition fee waiver
+- SC/ST students: Fee reimbursement as per UP Government norms
+- Economically weaker sections: Apply to the scholarship committee by 31 August
+
+SECTION 5: FEE RECEIPT AND DOCUMENTATION
+
+After successful payment:
+- An electronic receipt is generated automatically on the portal.
+- Students must download and preserve the receipt.
+- Discrepancies must be reported to the Finance Office within 7 days.
+
+SECTION 6: HOSTEL FEE (DEMO AMOUNTS)
+
+- Hostel accommodation (single occupancy): Rs. 30,000 per year
+- Hostel accommodation (double occupancy): Rs. 22,000 per year
+- Mess charges: Rs. 28,000 per year (subject to revision)
+- Hostel security deposit (refundable): Rs. 5,000 (one time)
+
+================================================================================
+END OF DEMO DOCUMENT
+================================================================================

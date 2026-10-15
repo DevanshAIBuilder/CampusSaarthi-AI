@@ -1,0 +1,68 @@
+⚠️ DEMO DATA – NOT OFFICIAL UNIVERSITY POLICY ⚠️
+All procedures and deadlines in this document are ILLUSTRATIVE ONLY.
+This content was created for the CampusSaarthi AI hackathon demonstration.
+
+================================================================================
+DEMO: STUDENT REGISTRATION AND ENROLLMENT PROCEDURES
+Integral University, Lucknow (Illustrative – Hacktoberfest Demo 2026)
+================================================================================
+
+SECTION 1: FRESH ADMISSION REGISTRATION
+
+New students admitted for the academic year 2026–27 must complete registration within 7 days of receiving their admission letter.
+
+Required documents for registration:
+1. Original Class X certificate and mark-sheet
+2. Original Class XII certificate and mark-sheet
+3. Transfer Certificate (TC) from the last institution
+4. Migration Certificate (for students from other universities)
+5. Six passport-size photographs (colour, white background)
+6. Character Certificate from the last institution
+7. Domicile Certificate (if applicable)
+8. Category Certificate (SC/ST/OBC) issued by competent authority (if applicable)
+9. Medical fitness certificate from a registered medical practitioner
+
+SECTION 2: SEMESTER REGISTRATION (CONTINUING STUDENTS)
+
+All continuing students must register at the start of each semester.
+
+Registration period for Odd Semester 2026–27:
+- Online registration window: 1 August 2026 – 14 August 2026 (DEMO DATES)
+- Fee payment deadline: 15 August 2026 (DEMO DATE)
+- Late registration (with late fee of Rs. 200): 16 August 2026 – 22 August 2026
+
+Steps for semester registration:
+1. Log in to the student portal.
+2. Navigate to "Registration" → "Semester Registration".
+3. Verify enrolled subjects and electives.
+4. Confirm subject selection.
+5. Pay the semester fee online or submit the fee receipt at the Finance Office.
+6. Download the registration confirmation slip.
+
+SECTION 3: COURSE ADD/DROP
+
+Students may add or drop elective courses during the first week of the semester.
+- Add/drop window: 18 August 2026 – 25 August 2026 (DEMO DATES)
+- Approval required from: Faculty Advisor and Head of Department
+- Form available at: Academic Section, Block A
+
+Core/mandatory courses cannot be dropped without special permission from the Dean.
+
+SECTION 4: RE-ADMISSION AFTER GAP YEAR
+
+Students seeking re-admission after a gap must:
+1. Submit an application to the Registrar within 30 days of the semester start.
+2. Provide a valid reason for the gap with supporting documents.
+3. Pay a re-admission fee of Rs. 1,000 (DEMO AMOUNT).
+4. Re-admission is subject to approval and seat availability.
+
+SECTION 5: IMPORTANT CONTACTS (DEMO – NOT OFFICIAL)
+
+- Academic Section: academic@iul.ac.in | Extension 101 (DEMO)
+- Finance Office: finance@iul.ac.in | Extension 201 (DEMO)
+- Examination Department: exam@iul.ac.in | Extension 301 (DEMO)
+- Registrar's Office: registrar@iul.ac.in | Extension 401 (DEMO)
+
+================================================================================
+END OF DEMO DOCUMENT
+================================================================================

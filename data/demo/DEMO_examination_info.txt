@@ -1,0 +1,66 @@
+⚠️ DEMO DATA – NOT OFFICIAL UNIVERSITY POLICY ⚠️
+All dates, amounts, rules, and procedures in this document are ILLUSTRATIVE ONLY.
+This content was created for the CampusSaarthi AI hackathon demonstration.
+Do NOT treat this as official Integral University policy.
+
+================================================================================
+DEMO: EXAMINATION INFORMATION GUIDE
+Integral University, Lucknow (Illustrative – Hacktoberfest Demo 2026)
+================================================================================
+
+SECTION 1: END-SEMESTER EXAMINATION SCHEDULE
+
+The end-semester examinations for November–December 2026 are scheduled as follows:
+
+- Theory examinations: 20 November 2026 to 10 December 2026
+- Practical examinations: 11 December 2026 to 20 December 2026
+- Supplementary examinations: January 2027 (dates to be announced)
+
+Note: The exact date-sheet will be published on the university portal at least 21 days before the first paper.
+
+SECTION 2: EXAMINATION ELIGIBILITY
+
+Students must fulfill the following conditions to appear in end-semester examinations:
+1. Minimum 75% attendance in each subject.
+2. Submission of all assignments and practicals.
+3. No outstanding dues (fee arrears) at the time of examination.
+4. A valid examination admit card, downloadable from the student portal.
+
+Students with attendance between 65% and 75% may apply for a condonation from the Dean (Academic Affairs) by 10 November 2026. Applications are not guaranteed approval.
+
+SECTION 3: EXAMINATION FEES
+
+Examination fees are included in the regular semester fee. No separate examination fee is charged for regular students.
+
+For re-appear (back paper) examinations:
+- Per paper re-appear fee: Rs. 500 (DEMO AMOUNT – not official)
+- Application deadline for back papers: Within 7 days of results being declared
+
+SECTION 4: ADMIT CARD PROCEDURE
+
+1. Log in to the student portal at https://portal.iul.ac.in (illustrative URL).
+2. Navigate to "Examinations" → "Admit Card".
+3. Download and print the admit card.
+4. Show the admit card along with a valid university identity card at the examination hall.
+
+Students who cannot access the portal should contact the Examination Department at Block A, Room 101.
+
+SECTION 5: RULES DURING EXAMINATION
+
+- No electronic devices are permitted in the examination hall.
+- Students must arrive at least 15 minutes before the scheduled start time.
+- No entry is permitted after 30 minutes from the start of the examination.
+- Answer sheets must be written in blue or black ball-point pen only.
+
+SECTION 6: RESULT DECLARATION
+
+Results are typically declared within 45 days of the last examination. They are published on the university portal and the official notice board.
+
+Re-checking and re-evaluation:
+- Re-checking (photocopy of answer sheet): Rs. 200 per paper (DEMO AMOUNT)
+- Re-evaluation: Rs. 500 per paper (DEMO AMOUNT)
+- Deadline: 15 days from the date of result declaration
+
+================================================================================
+END OF DEMO DOCUMENT
+================================================================================

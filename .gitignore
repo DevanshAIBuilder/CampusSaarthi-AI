@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Node
+node_modules/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Data & Models (never commit)
+data/uploads/
+data/indexes/
+*.db
+*.sqlite
+*.faiss
+*.pkl
+*.bin
+*.safetensors
+/models/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/

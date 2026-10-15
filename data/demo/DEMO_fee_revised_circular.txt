@@ -1,0 +1,35 @@
+⚠️ DEMO DATA – NOT OFFICIAL UNIVERSITY POLICY ⚠️
+Conflicting fee document to demonstrate CampusSaarthi AI's conflict detection feature.
+DELIBERATELY shows a DIFFERENT fee amount from DEMO_fee_structure.txt.
+
+================================================================================
+DEMO: REVISED FEE CIRCULAR (CONFLICTING DATA – DEMO PURPOSES ONLY)
+Integral University, Lucknow (Illustrative – Hacktoberfest Demo 2026)
+================================================================================
+
+NOTICE TO ALL STUDENTS
+
+This is a DEMO circular with deliberately different fee amounts to demonstrate
+the CampusSaarthi AI conflict detection feature.
+
+REVISED FEE STRUCTURE (DEMO – CONFLICTING DOCUMENT):
+
+B.Tech (All branches):
+- Tuition fee: Rs. 92,000 per year (NOTE: DIFFERENT FROM FEE STRUCTURE DOCUMENT)
+- Development fee: Rs. 12,000 per year (NOTE: DIFFERENT)
+- Total: Rs. 1,04,000 per year
+
+The above revision applies from the academic year 2026–27 onwards.
+
+Students who have already paid based on the old fee structure should contact
+the Finance Office for reconciliation.
+
+Payment deadline: 15 August 2026 (same as before)
+
+Finance Office
+Integral University, Lucknow
+(DEMO DOCUMENT – All amounts are illustrative)
+
+================================================================================
+END OF DEMO CONFLICTING DOCUMENT
+================================================================================
