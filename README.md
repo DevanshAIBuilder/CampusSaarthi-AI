@@ -1,1 +1,1 @@
-# CollegeSaarthi-AI
+# CampusSaarthi-AI
